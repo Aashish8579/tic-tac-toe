@@ -1,1 +1,1 @@
-html,css and javascript
+this is a frontend project using html,css and javascript
